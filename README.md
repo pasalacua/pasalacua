@@ -35,14 +35,16 @@
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </p>
 
+<!--
+
 ---
 
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasalacua&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasalacua&layout=compact&theme=tokyonight"/>
 </p>
-## Hi there 👋
+-->
 
 <!--
 **pasalacua/pasalacua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
