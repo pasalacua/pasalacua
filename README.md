@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Agustín Passadore</h1>
+<h1 align="center">I'm Agustín Passadore</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Córdoba%2C%20Argentina-blue?style=flat-square" />
@@ -7,10 +7,10 @@
 ---
 
 ### 🧉 About Me:
-- 🌱 I’m currently learning  
-- 📖 Studying at the ITSV
+- 🏗️ Civil engineering
+- 📖 I.T.S. Villada student
 - 🗣️ C1 English
-
+D
 ---
 
 ### 💻 Tech Stack:
@@ -33,7 +33,17 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasalacua&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
+
 
 <!--
 
